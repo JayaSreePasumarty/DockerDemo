@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugxkbOWlAQXXAyu1wArEnlj+o+2JrZRBX9T+LVHrhZzEf+sbpxBiyXz/qeNJU+qeItwk1Nr5Mt+8W+D27fpm1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HARSHA\\Source\\Repos\\DcokerDemo\\DockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HARSHA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

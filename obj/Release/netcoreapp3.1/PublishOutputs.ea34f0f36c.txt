@@ -1,0 +1,7 @@
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\DockerDemo.exe
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\DockerDemo.dll
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\DockerDemo.deps.json
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\DockerDemo.runtimeconfig.json
+C:\Users\HARSHA\Source\Repos\DcokerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\DockerDemo.pdb
